@@ -5,6 +5,9 @@ Conectar Repositorio con Claude
 
 - `remotion-video/`: proyecto de [Remotion](https://www.remotion.dev) (plantilla Hello World).
 - `requirements.txt`: dependencias de Python para transcribir con faster-whisper.
+- `.claude/skills/`: las 11 skills de [youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill)
+  (`/yt-script`, `/yt-package`, `/yt-edit`, `/yt-shorts`, `/yt-retention`, `/yt-viral`…). Licencia MIT.
+- `youtube/voice.md`: tu perfil de estilo, que leen todas las skills. Rellénalo.
 
 ## Remotion
 
